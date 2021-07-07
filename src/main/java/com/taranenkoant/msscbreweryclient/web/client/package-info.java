@@ -1,0 +1,1 @@
+package com.taranenkoant.msscbreweryclient.web.client;
